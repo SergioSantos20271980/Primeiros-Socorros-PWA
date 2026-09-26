@@ -1,0 +1,11 @@
+{
+  "name": "Primeiros Socorros – PCR Adulto",
+  "short_name": "PCR Adulto",
+  "description": "Protótipo educacional de treinamento em RCP para PCR adulto.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef4f5",
+  "theme_color": "#0b6f75"
+}
